@@ -1,2 +1,5 @@
 2026-03-05 20:21:45,969 - model_evaluation - ERROR - Failed to complete model evaluation: No module named 'boto3'
 2026-03-05 20:48:47,808 - model_evaluation - ERROR - Failed to complete model evaluation: No module named 'boto3'
+2026-03-05 21:08:56,827 - model_evaluation - ERROR - Failed to complete model evaluation: No module named 'boto3'
+2026-03-05 21:15:05,968 - model_evaluation - ERROR - Failed to complete model evaluation: No module named 'boto3'
+2026-03-25 15:54:24,664 - model_evaluation - ERROR - Failed to complete model evaluation: No module named 'boto3'

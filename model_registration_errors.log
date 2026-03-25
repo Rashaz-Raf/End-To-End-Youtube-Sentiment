@@ -1,2 +1,8 @@
 2026-03-05 20:22:01,195 - model_registration - ERROR - File not found: experiment_info.json
 2026-03-05 20:22:01,196 - model_registration - ERROR - Failed to complete the model registration process: [Errno 2] No such file or directory: 'experiment_info.json'
+2026-03-25 15:40:18,503 - model_registration - ERROR - Error during model registration: No module named 'botocore'
+2026-03-25 15:40:18,506 - model_registration - ERROR - Failed to complete the model registration process: No module named 'botocore'
+2026-03-25 15:57:16,611 - model_registration - ERROR - Error during model registration: No module named 'botocore'
+2026-03-25 15:57:16,620 - model_registration - ERROR - Failed to complete the model registration process: No module named 'botocore'
+2026-03-25 15:59:29,105 - model_registration - ERROR - Error during model registration: No module named 'botocore'
+2026-03-25 15:59:29,107 - model_registration - ERROR - Failed to complete the model registration process: No module named 'botocore'
